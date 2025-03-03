@@ -1,0 +1,3 @@
+# helm chart from the base configuration
+generators:
+- ../base-v1
