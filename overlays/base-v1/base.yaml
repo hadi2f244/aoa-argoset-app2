@@ -3,7 +3,6 @@ kind: HelmChartInflationGenerator
 name: chartB_v1.0.0
 chartHome: ../../base/helm-charts
 releaseName: test-release
-namespace: test-ns
 includeCRDs: true
 
 metadata:
